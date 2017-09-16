@@ -1,5 +1,5 @@
-# HTML5-Template-With-BOOTSTRAP-and-SASS
-HTML5 Template build with BOOTSTRAP and SASS
+# Single Page Theme-Template-With-BOOTSTRAP-and-SASS
+Single Page Template build with BOOTSTRAP and SASS
 
 Requirement for SASS 
 
